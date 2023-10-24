@@ -1,0 +1,193 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+select,
+textarea {
+  background-color: transparent;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+}
+
+li {
+  list-style: none;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+select,
+textarea {
+  background-color: transparent;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+}
+
+li {
+  list-style: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  background: #faf9f9;
+}
+
+.containerv1 {
+  background-color: #f31e1e;
+  margin: 0 auto;
+  background-color: #f31e1e;
+}
+
+.header-logo {
+  cursor: pointer;
+}
+
+.form-box {
+  border-radius: 10px;
+  margin-top: 30px;
+  position: relative;
+  left: 35%;
+  top: 50%;
+  width: 442px;
+  height: 354px;
+  align-items: center;
+  border: 1px solid rgb(255, 255, 255);
+}
+
+.form-box-heading {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #171725;
+  text-align: center;
+}
+
+form .text-lable {
+  margin-left: 50px;
+  color: #4b5264;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+form #input-email {
+  border: 1px solid #e5e2e2;
+  color: #080808;
+  padding: 15px 25px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 50px;
+  width: 335px;
+  border-radius: 10px;
+}
+
+form #button-signin {
+  width: 335px;
+  height: 52px;
+  border-radius: 10px;
+  color: white;
+  background: #f31e1e;
+  margin-left: 50px;
+  margin-right: 50px;
+  cursor: pointer;
+  border: none;
+}
+
+form #input-password {
+  border: 1px solid #e5e2e2;
+  color: #0b0b0b;
+  padding: 15px 25px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 50px;
+  width: 335px;
+  border-radius: 10px;
+}
+
+input::placeholder {
+  color: #b2b3bd;
+}
+
+.form-box-desc {
+  margin-top: 20px;
+  color: #808191;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.text-sign {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=app.css.map */
